@@ -58,6 +58,6 @@ input, button, p {
 }
 
 body {
-  background: url('https://www.example.com/tulipanes.jpg') no-repeat center center fixed;
+  background: url('https://sl.bing.net/clyZEwXlYIe') no-repeat center center fixed;
   background-size: cover;
 }

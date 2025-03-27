@@ -1,0 +1,63 @@
+/* styles.css */
+body {
+  background-color: #f7e0e7;
+  font-family: 'Arial', sans-serif;
+  color: #6a2e7c;
+  text-align: center;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+  padding: 20px;
+}
+
+header h1 {
+  color: #d26b8f;
+  font-size: 2.5em;
+}
+
+input, button {
+  margin: 10px;
+  padding: 10px;
+  border: 2px solid #d26b8f;
+  border-radius: 5px;
+  width: 80%;
+}
+
+button {
+  background-color: #d26b8f;
+  color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #a04c6d;
+}
+
+.result-section {
+  margin-top: 40px;
+}
+
+#triangulo {
+  margin-top: 20px;
+  height: 200px;
+  width: 200px;
+  background-color: #f4c2c2;
+  display: inline-block;
+  border-radius: 5px;
+}
+
+#triangulo canvas {
+  width: 100%;
+  height: 100%;
+}
+
+input, button, p {
+  font-size: 1.1em;
+}
+
+body {
+  background: url('https://www.example.com/tulipanes.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
